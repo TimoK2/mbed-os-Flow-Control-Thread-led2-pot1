@@ -1,4 +1,4 @@
-/* Flow control with three threat
+/* Flow control with three threats
 * Blinking LEDs in the main and a thread for the led.
 * Reading analog input with 12 bits and calculating moving average in a thread for the the potentiometer
 * connect:
